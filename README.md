@@ -3,7 +3,7 @@ AI exam evaluation with HTML, CSS, JS Fetch API, JS FileReader API and GEMINI AP
 
 Download index.html file, insert your Gemini API Key and start using on any browser.
 
-# To get Gemini API key: 
+# To Get Gemini API key: 
 https://aistudio.google.com/app/apikey
 
 # Check Gemini API AI models: 
